@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\n\ Character\ class\ represents\ other\ characters\ in\ the\ game.\n\ They\ can\ walk\ throughout\ the\ game.\ The\ player\ can\ give\ them\ items\n\ if\ they\ wish\ to.\n\n\ @author\ Harry\ Tennent\n\ @version\ 25/11/18\n
+comment1.params=
+comment1.target=Character()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Character\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Return\ name\ of\ the\ character.\n\ @return\ Character\ name.\n
+comment3.params=
+comment3.target=void\ setName()
+comment3.text=\n\ Random\ pick\ a\ name\ for\ the\ character.\n
+comment4.params=room
+comment4.target=void\ setCurrentRoom(Room)
+comment4.text=\n\ Set\ the\ current\ room\ the\ character\ is\ in.\n\ @param\ room\ Room\ object\ the\ character\ is\ in.\n
+comment5.params=
+comment5.target=Room\ getCurrentRoom()
+comment5.text=\n\ Return\ the\ room\ the\ character\ is\ in.\n\ @return\ Current\ room\ object.\n
+comment6.params=
+comment6.target=java.lang.String\ getCurrentRoomString()
+comment6.text=\n\ Returns\ a\ string\ of\ the\ current\ room's\ description.\n\ @return\ Current\ room's\ description.\n
+comment7.params=itemName
+comment7.target=void\ addBackpackItem(java.lang.String)
+comment7.text=\n\ Add\ an\ item\ to\ the\ backpack.\n\ @param\ itemName\ Name\ of\ item\ to\ add.\n
+numComments=8

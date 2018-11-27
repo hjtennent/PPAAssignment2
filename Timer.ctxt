@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Timer
+comment0.text=\n\ The\ timer\ class\ manages\ the\ game\ timer.\ It\ it\ started\ as\ soon\n\ as\ the\ game\ starts.\ Bonus\ time\ can\ be\ added\ to\ the\ timer\ by\n\ using\ items.\ When\ the\ timer\ runs\ out,\ the\ game\ ends.\n\n\ @author\ Harry\ Tennent\n\ @version\ 25/11/18\n
+comment1.params=
+comment1.target=Timer()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Timer\n
+comment2.params=
+comment2.target=void\ startTimer()
+comment2.text=\n\ Timer\ code\ taken\ from\ this\ StackOverflow\ answer\:\ \n\ https\://stackoverflow.com/questions/10820033/make-a-simple-timer-in-java/14323134\n\ From\ user\ "AgilePro"\ on\ the\ 15/11/18.\n\ \n\ Starts\ the\ timer.\n
+comment3.params=
+comment3.target=long\ getTimeRemaining()
+comment3.text=\n\ Timer\ code\ taken\ and\ edited\ from\ this\ StackOverflow\ answer\:\ \n\ https\://stackoverflow.com/questions/10820033/make-a-simple-timer-in-java/14323134\n\ From\ user\ "AgilePro"\ on\ the\ 15/11/18.\n\ \n\ Returns\ the\ time\ remaining\ on\ the\ clock.\n\ @return\ long\ value\ of\ the\ time\ remaining\ in\ seconds.\n
+comment4.params=time
+comment4.target=void\ addBonusTime(int)
+comment4.text=\n\ Add\ time\ to\ the\ game\ timer,\ print\ out\ remaining\ time.\n\ @param\ time\ to\ add\ to\ the\ game\ timer.\n
+comment5.params=
+comment5.target=void\ printTimeRemaining()
+comment5.text=\n\ Prints\ a\ strings\ saying\ how\ long\ is\ left\ on\ the\ game\ timer.\n
+numComments=6
