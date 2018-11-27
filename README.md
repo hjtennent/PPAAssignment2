@@ -1,2 +1,2 @@
 # PPAAssignment2
-A text-based adventure gamed called Zuul Station.
+A text-based adventure game called Zuul Station.
